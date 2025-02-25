@@ -1,1 +1,1 @@
-console.log("Hallo liebe Mit-Studenten!");
+console.log("HI!");
